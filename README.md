@@ -22,11 +22,7 @@ Here are the links to my work:
 
 https://github.com/bctan87/WeatherBee
 
-https://bctan87.github.io/weatherBee/
-
-https://group12-bootcamp.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=G12&selectedIssue=G12-6
-
-https://group12-bootcamp.atlassian.net/wiki/spaces/G12/pages/29982724/Group+12
+https://bctan87.github.io/WeatherBee/
 
 ## Usage
 
