@@ -1,16 +1,8 @@
 # WeatherBee
 
-## Participants
-
-### Andrew Zuniga
-FE (HTML, CSS, Materialize)
-
-### Ben Tan
-BE (JS, API, Materialize)
-
 ## Project Purpose:
 
-Our project goal is to rewrite our challenge 6 into a mobile-friendly app. We will use the same APIs used, but we will add an additional API for the new features.
+The project goal is to rewrite our challenge 6 into a mobile-friendly app. We will use the same APIs used, but we will add an additional API for the new features.
 
 ## Main Features:
 
@@ -26,7 +18,7 @@ Our project goal is to rewrite our challenge 6 into a mobile-friendly app. We wi
 
 ## Deployment
 
-Here are the links to our work:
+Here are the links to my work:
 
 https://github.com/bctan87/weatherBee
 
