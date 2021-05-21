@@ -2,7 +2,7 @@
 
 ## Project Purpose:
 
-The project goal is to create a mobile-friendly weather app. We will use the same APIs used, but we will add an additional API for the new features.
+The project goal is to create a simple mobile-friendly weather app with the help of GoogleAPI.
 
 ## Main Features:
 
@@ -50,7 +50,7 @@ Unit of measurement dropdown. Default value is set to "Imperial"
 
 ![sc5](/assets/images/sc5.png)
 
-Include sunrise sunset dropdown. Dafault value is set ti "Yes"
+Include sunrise sunset dropdown. Dafault value is set to "Yes"
 
 ![sc6](/assets/images/sc6.png)
 
