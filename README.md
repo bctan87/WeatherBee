@@ -2,7 +2,7 @@
 
 ## Project Purpose:
 
-The project goal is to rewrite our challenge 6 into a mobile-friendly app. We will use the same APIs used, but we will add an additional API for the new features.
+The project goal is to create a mobile-friendly weather app. We will use the same APIs used, but we will add an additional API for the new features.
 
 ## Main Features:
 
